@@ -1,7 +1,7 @@
 int main(int argc, char *argv[]){
 
         if (argc != 3) {
-                printf("Usage: ./dnsC example.com wordlist.txt");
+                printf("Usage: ./searchdns example.com wordlist.txt");
                 return 1;
         }
 
